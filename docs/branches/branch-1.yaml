@@ -1,5 +1,6 @@
 title: Branch
 type: object
+x-internal: true
 properties:
   id:
     type: integer
@@ -9,7 +10,7 @@ properties:
   name:
     type: string
     description: Name of the branch
-    example: Name 123
+    example: Name 1234
     maxLength: 100
   erpCode:
     type: string
@@ -133,4 +134,3 @@ required:
   - languageCode
   - baseCurrencyCode
   - mobileLoanerBankRequests
-x-internal: true
