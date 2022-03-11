@@ -1,4 +1,4 @@
-## Username and Password (GIT REPO CHANGED)
+## Username and Password (STOPLIGHT STUDIO GIT REPO CHANGED)
 
 WebOps Admin shall provide the following for each client setup:
 
